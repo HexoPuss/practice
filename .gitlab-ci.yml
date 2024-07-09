@@ -12,7 +12,7 @@ stages:
 
 # Переменные окружения (замените на свои значения)
 variables:
-  IMAGE_NAME: "registry.gitlab.com/<имя_группы>/<имя_проекта>/bun-react-app"
+  IMAGE_NAME: "registry.gitlab.com/Practic/BUN/bun-react-app"
   DOCKER_DRIVER: overlay2
 
 # Этап: сборка Docker-образа
